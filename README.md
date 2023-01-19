@@ -1,1 +1,29 @@
 # fluffy-telegram
+
+- src
+  - components
+    - Header.js
+    - Nav.js
+    - ResumeModal.js
+    - Hero.js
+    - Work.js
+    - About.js
+    - Contact.js
+    - Footer.js
+  - styles
+    - index.css
+    - header.css
+    - nav.css
+    - hero.css
+    - work.css
+    - about.css
+    - contact.css
+    - footer.css
+  - images
+    - Raphael's School of Athens.jpg
+  - pages
+    - index.js
+  - data
+    - resume.pdf
+  - gatsby-config.js
+  - gatsby-browser.js
